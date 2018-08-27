@@ -17,5 +17,5 @@ Shareit ILL training
    login
    participant
    search
-   managing/readme
-   cataloging/readme
+   /managing/readme
+   /cataloging/readme
