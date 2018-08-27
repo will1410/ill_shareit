@@ -13,9 +13,9 @@ Shareit ILL training
 .. toctree::
    :maxdepth: 2
 
-   introduction
-   logging_in
-   participant_record
-   search_and_request
-   managing_requests
-   copy_cataloging
+   readme
+   login
+   participant
+   search
+   managing/readme
+   cataloging/readme
