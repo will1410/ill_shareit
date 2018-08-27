@@ -28,7 +28,7 @@ A successfull login should look like this:
 If you have trouble logging in, keep reading.
 
 ShareIt URLs
-~~~~~~~~~~~~
+------------
 
 ShareIt requires that each library logs in from a specific URL.
 
