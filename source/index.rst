@@ -9,11 +9,10 @@ Shareit ILL training
 
 :Author: NEKLS Staff
 
-.. include:: images.rst
 .. toctree::
    :maxdepth: 2
 
-   readme
+   index
    login
    participant
    search
