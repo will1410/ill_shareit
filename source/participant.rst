@@ -17,3 +17,6 @@ Once you’re logged in, the basic setup for public libraries requires
 that you fill in the fields highlighted in green in this screenshot:
 
 See detailed screenshot in a new window
+
+.. figure:: images/090.jpg
+   :alt: Participant record
