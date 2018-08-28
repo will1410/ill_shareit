@@ -12,7 +12,6 @@ Shareit ILL training
 .. toctree::
    :maxdepth: 2
 
-   index
    login
    participant
    search
