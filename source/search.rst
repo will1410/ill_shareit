@@ -1,14 +1,11 @@
-##################
 Search and request
-##################
+==================
 
-******
 Search
-******
+------
 
-==========
 Search box
-==========
+^^^^^^^^^^
 
 The search box appears at the top of every screen in ShareIt.
 
@@ -17,9 +14,8 @@ The search box appears at the top of every screen in ShareIt.
 
    Search box
 
-=================
 Catalog selection
-=================
+^^^^^^^^^^^^^^^^^
 
 The search will automatically search the catalogs selected by default
 for your library. The defaults can be changed from the “Search
@@ -30,18 +26,16 @@ resources” menu on the staff dashboard.
 
    Catalog search defaults
 
-==============
 Search results
-==============
+^^^^^^^^^^^^^^
 
 .. figure:: images/120.jpg
    :alt: Search results
 
    Search results
 
-==================
 Detailed results 1
-==================
+^^^^^^^^^^^^^^^^^^
 
 Clicking on “View details” will give you more detailed results.
 
@@ -50,9 +44,8 @@ Clicking on “View details” will give you more detailed results.
 
    Details 1
 
-==================
 Detailed results 2
-==================
+^^^^^^^^^^^^^^^^^^
 
 Clicking on the cover of an item will give you even more details.
 
@@ -61,13 +54,11 @@ Clicking on the cover of an item will give you even more details.
 
    Details 2
 
-********
 Requests
-********
+--------
 
-=============
 Basic request
-=============
+^^^^^^^^^^^^^
 
 Once you find a title you want to borrow, click on the “Request this
 item” button to initiate a request. This will bring up a request form:
@@ -80,9 +71,8 @@ item” button to initiate a request. This will bring up a request form:
 Once a request has been submitted, `it must be approved`_ in the
 “Request manager” module.
 
-=======================
 Requesting multi-copies
-=======================
+^^^^^^^^^^^^^^^^^^^^^^^
 
 If you need to borrow multiple copies of a title (maybe for a book-club
 or classroom use) you can request multiple copies of a title.
@@ -95,9 +85,8 @@ or classroom use) you can request multiple copies of a title.
 Once a request has been submitted, `it must be approved`_ in the
 “Request manager” module.
 
-====================================
 Approve requests after they are made
-====================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 After requests have been made, staff need to approve the requests. The
 approval process is built into the system because some libraries allow
